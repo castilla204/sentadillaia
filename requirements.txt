@@ -1,0 +1,7 @@
+opencv-python
+numpy
+scikit-learn
+joblib
+mediapipe==0.10.14
+gradio
+
